@@ -1,0 +1,11 @@
+{
+    "name": "CHIP CHAIN",
+    "website": "https://chipchainai.com/",
+    "description": "CHIP is an innovative AI blockchain solution specifically designed to cater to the needs of DeFi.",
+    "explorer": "https://bscscan.com/token/0x26AE663e137a2540A3E198c365695be90d3a53dd",
+    "type": "BEP20",
+    "symbol": "CHIP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x26AE663e137a2540A3E198c365695be90d3a53dd"
+}
